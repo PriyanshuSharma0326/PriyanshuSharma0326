@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning more about Data Structures<br>💬 Ask me about anything. I'll try to respond asap
+🌱 I’m currently learning more about Web & Data Structures<br>💬 Ask me about anything. I'll try to respond asap
 
 
 ## 🌐 Socials:
