@@ -36,3 +36,4 @@
 
   ## 💰 You still haven't left this page. Consider buying me a coffee? Here's the link.
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/payxtechilad)
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xtechilad)
