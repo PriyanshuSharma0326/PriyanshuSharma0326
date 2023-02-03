@@ -27,12 +27,12 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xtechilad&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xtechilad&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=PriyanshuSharma0326&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuSharma0326&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xtechilad&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xtechilad&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PriyanshuSharma0326&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You still haven't left this page. Consider buying me a coffee? Here's the link.
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/payxtechilad)
