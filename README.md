@@ -30,8 +30,8 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) ![Github Pages](https://img.shields.io/badge/Github_Pages-000000?style=for-the-badge&logo=github-pages&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshusharma0326&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.shion.dev/api?username=priyanshusharma0326&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshusharma0326&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.shion.dev/api?username=priyanshusharma0326&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com?user=priyanshusharma0326&theme=radical&hide_border=false)
 
 ### ✍️ Random Dev Quote
