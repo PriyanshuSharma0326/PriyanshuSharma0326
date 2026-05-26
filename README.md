@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on React based projects<br>
-👯 I’m looking to collaborate on React/Next based projects<br>
-🌱 I am currently learning the Backend
+🔭 I’m currently looking to collaborate on Full Stack projects<br>
 
 
 # 🌐 Socials:
